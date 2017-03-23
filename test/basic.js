@@ -151,4 +151,10 @@ describe('Bot-Lang', () => {
       assert.deepEqual(lang.tag.all('hi there'), ['hello']);
     });
   });
+  
+  describe('This test fails :(', () => {
+    it('special characters in source', () => {
+      assert.equal(lang.replace.all('cliché'), 'cliché');
+    });
+  });
 });

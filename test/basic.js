@@ -98,6 +98,10 @@ describe('Bot-Lang', () => {
       assert.equal(lang.tag.test('no', 'Nope'), true);
       assert.equal(lang.tag.test('apology', 'well excuse me princess'), false);
       assert.equal(lang.tag.test('apology', 'excuse me princess'), true);
+      assert.equal(lang.tag.test('yes', 'approved'), true);
+      assert.equal(lang.tag.test('yes', 'approved logos'), false);
+      assert.equal(lang.tag.test('yes', 'okay'), true);
+      assert.equal(lang.tag.test('yes', 'is it okay'), false);
     });
 
     it('should have all', () => {

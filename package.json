@@ -2,8 +2,7 @@
   "name": "bot-lang",
   "version": "1.1.1",
   "description": "Common bot language subsitutions and tags.",
-  "_comment": "main is `lib/index.js` in the original repo. We need to change it because of a bug in yarn: https://github.com/yarnpkg/yarn/issues/1671",
-  "main": "src/index.js",
+  "main": "lib/index.js",
   "scripts": {
     "build": "babel src --out-dir lib",
     "prepublish": "npm run build",

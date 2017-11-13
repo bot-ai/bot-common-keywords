@@ -13,8 +13,8 @@
 <alright
 <always>
 <apparently>
-<approve
-<approved
+<approve>
+<approved>
 <ay
 <aye
 <be_my_guest
@@ -24,7 +24,7 @@
 <can_not_argue_with_that
 <certainly>
 <completely
-<confirmed
+<confirmed>
 <constantly>
 <correct>
 <could_be>
@@ -169,9 +169,8 @@ d'accord
 I_would_say_so
 <it_does>
 <it_is>
-okay
+<okay
 okey
-oops
 right-o
 <she_does>
 <she_is>

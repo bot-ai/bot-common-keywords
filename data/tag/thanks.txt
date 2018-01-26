@@ -32,6 +32,6 @@
 <ta
 <ta_very_much
 <tnx
-<tx
-<ty
+<tx>
+<ty>
 <tyvm

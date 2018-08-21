@@ -105,7 +105,7 @@ describe('Bot-Lang', () => {
     });
 
     it('should have all', () => {
-      assert.deepEqual(lang.tag.all('eww , shut up , I have to go'), ['disgust', 'goodbye', 'stop']);
+      assert.deepEqual(lang.tag.all('eww , shut up , I have to go'), ['disgust', 'goodbye']);
       assert.deepEqual(lang.tag.all('no'), ['no']);
     });
 

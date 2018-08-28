@@ -1,8 +1,8 @@
 <probably>
 <a'ight
 <a'right
-<abso-fucking-lutely
-<absolutely
+<abso-fucking-lutely>
+<absolutely>
 <accept>
 <accepted>
 <affirmative>
@@ -23,7 +23,7 @@
 <by_all_means
 <can_not_argue_with_that
 <certainly>
-<completely
+<completely>
 <confirmed>
 <constantly>
 <correct>
@@ -32,7 +32,7 @@
 <da
 <damn_good
 <damn_straight
-<definitely
+<definitely>
 <delighted
 <especially
 <evidently>
@@ -80,8 +80,8 @@
 <it_would_be_a_pleasure
 <let_us_try>
 <makes_sense
-<most_assuredly
-<most_certainly
+<most_assuredly>
+<most_certainly>
 <mostly>
 <my_pleasure>
 <naturally>

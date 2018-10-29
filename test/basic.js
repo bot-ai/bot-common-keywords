@@ -114,7 +114,8 @@ describe('Bot-Lang', () => {
     });
 
     it('should tag text emoji', () => {
-      assert.deepEqual(lang.tag.all("xD :'( :o"), ['laugh', 'sad', 'surprise']);
+      assert.deepEqual(lang.tag.all("xD :o"), ['laugh', 'surprise']);
+      assert.deepEqual(lang.tag.all(":'("), ['sad']);
     });
   });
 
